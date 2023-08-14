@@ -1,1 +1,1 @@
-QCSGE-002.md released
+QCSGE-002.md updated
